@@ -13,7 +13,12 @@
 [![Email](./email.png)](ahmad.arbash.97@outlook.com)
 
 # Languages and tools: 🤝
-<img src="./Flutter.png" alt="Flutter" width="50" height="50">
+<img src="./Dart.png" alt="Dart" width="50" height="50"> <img src="./Flutter.png" alt="Flutter" width="50" height="50"> <img src="./vscode.png" alt="vscode" width="50" height="50"> <img src="./c++.png" alt="c++" width="50" height="50"> <img src="./csharp.png" alt="csharp" width="50" height="50"> <img src="./ai.png" alt="ai" width="50" height="50">
+
+
+
+
+
 
 
 <!--
