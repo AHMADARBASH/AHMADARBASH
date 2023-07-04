@@ -13,6 +13,7 @@
 [![Email](./email.png)](ahmad.arbash.97@outlook.com)
 
 # Languages and tools: 🤝
+<img src="./Flutter.png" alt="Flutter" width="50" height="50">
 
 
 <!--
