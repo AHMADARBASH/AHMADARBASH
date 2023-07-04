@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Flutter's advanced concepts and animations and the basics of the Backend with Node.js
 - My best project is [Gameaway](https://play.google.com/store/apps/details?id=com.aplustechnologies.gameaway)
 - 👯 I'm looking for a job as a Flutter Developer
-# Contact with me: 
+# Contact me: 🤝
+
 
 
 <!--
