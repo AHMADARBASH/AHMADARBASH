@@ -7,9 +7,9 @@
 - 👯 I'm looking for a job as a Flutter Developer
 # Contact me: 🤝
 
-[![IconAltText](./Linkedin.png)](https://www.linkedin.com/in/ahmad-arbash-14a57b145/)
-[![IconAltText](./Facebook.png)](https://www.facebook.com/ahmad.arbash.97/)
-[![IconAltText](./SOF.png)](https://stackoverflow.com/users/13520706/ahmad-ar)
+[![IconAltText](./in.png)](https://www.linkedin.com/in/ahmad-arbash-14a57b145/)
+[![IconAltText](./fb.png)](https://www.facebook.com/ahmad.arbash.97/)
+[![IconAltText](./stack.png)](https://stackoverflow.com/users/13520706/ahmad-ar)
 [![Email](./email.png)](ahmad.arbash.97@outlook.com)
 
 # Languages and tools: 🤝
