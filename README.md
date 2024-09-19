@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### This is Ahmad Arbash's Profile I'm a software engineer | Flutter Developer
 - 🔭 I’m currently working as DBA at SARC NGO | Freelance Flutter Developer
-- 🌱 I’m currently learning Flutter's advanced concepts and animations and the basics of the Backend with Node.js
+- 🌱 I’m currently learning Flutter's advanced concepts and animations and the basics of the Backend with .NET Core
 - My best project is [Gameaway](https://play.google.com/store/apps/details?id=com.aplustechnologies.gameaway)
 - 👯 I'm looking for a job as a Flutter Developer
 # Contact me: 🤝
